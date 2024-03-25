@@ -1,0 +1,42 @@
+﻿@model TraversalApp.Core.DTOs.MailRequestDto
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Mail Bülten İşlemleri</h1>
+
+<form method="post" id="mailForm">
+
+    <div class="form-group">
+        @Html.Label("Alıcı Mail Adresi")
+        <input type="text" id="receiverMail" asp-for="ReceiverMail" class="form-control" />
+    </div>
+    <br />
+
+    <div class="form-group">
+        @Html.Label("Konu Başlığı")
+        <input type="text" id="subject" asp-for="Subject" class="form-control" />
+    </div>
+    <br />
+    
+
+    <div class="form-group">
+        @Html.Label("Mesaj İçeriği")
+        <input type="text" id="body" asp-for="Body" class="form-control" />
+    </div>
+    <br />
+
+
+
+    <button type="submit" class="btn btn-dark">Oluştur!</button>
+
+</form>
+
+<script>
+    var form = document.getElementById("mailForm");
+
+    form.addEventListener("submit", function(event) {
+        alert("Form submitted successfully!");        
+    });
+</script>

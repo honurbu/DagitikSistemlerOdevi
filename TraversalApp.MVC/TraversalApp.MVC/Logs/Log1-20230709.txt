@@ -1,0 +1,74 @@
+2023-07-09T15:09:43.2931414+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-09T15:09:43.3027623+03:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-09T15:09:43.3030148+03:00  [INF] Content root path: "C:\Users\Onur\Desktop\Windows Form Projelerim\TraversalApp.MVC\TraversalApp.MVC" (cc26f24e)
+2023-07-09T15:09:45.4579459+03:00 40000003-0002-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("60"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [d].[Id], [d].[Capacity], [d].[City], [d].[ContentImage], [d].[CoverImage], [d].[Date], [d].[DayNight], [d].[Description], [d].[GuideId], [d].[Image], [d].[Maxim], [d].[MaximAuthor], [d].[MaximStatus], [d].[Price], [d].[Status], [d].[SubDetails], [d].[TopDetails]
+FROM [Destinations] AS [d]" (0723d8ff)
+2023-07-09T15:12:36.5034592+03:00 40000004-0006-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [d].[Id], [d].[Capacity], [d].[City], [d].[ContentImage], [d].[CoverImage], [d].[Date], [d].[DayNight], [d].[Description], [d].[GuideId], [d].[Image], [d].[Maxim], [d].[MaximAuthor], [d].[MaximStatus], [d].[Price], [d].[Status], [d].[SubDetails], [d].[TopDetails]
+FROM [Destinations] AS [d]" (0723d8ff)
+2023-07-09T15:12:36.6857939+03:00 40000004-0006-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Destinations] AS [d]" (0723d8ff)
+2023-07-09T15:12:36.7062142+03:00 40000004-0006-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Guides] AS [g]" (0723d8ff)
+2023-07-09T15:12:36.7425155+03:00 40000004-0006-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[Id], [f].[Description], [f].[Image], [f].[IsBigArea], [f].[Status], [f].[Title]
+FROM [Features] AS [f]" (0723d8ff)
+2023-07-09T15:12:36.7646024+03:00 40000004-0006-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Description], [s].[Title]
+FROM [SubAbouts] AS [s]" (0723d8ff)
+2023-07-09T15:12:36.7832744+03:00 40000004-0006-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[Id], [t].[Client], [t].[ClientImage], [t].[Comment], [t].[Status]
+FROM [Testimonials] AS [t]" (0723d8ff)
+2023-07-09T15:12:38.1694928+03:00 40000006-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [d].[Id], [d].[Capacity], [d].[City], [d].[ContentImage], [d].[CoverImage], [d].[Date], [d].[DayNight], [d].[Description], [d].[GuideId], [d].[Image], [d].[Maxim], [d].[MaximAuthor], [d].[MaximStatus], [d].[Price], [d].[Status], [d].[SubDetails], [d].[TopDetails]
+FROM [Destinations] AS [d]" (0723d8ff)
+2023-07-09T15:13:51.7371676+03:00 40000008-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [d].[Id], [d].[Capacity], [d].[City], [d].[ContentImage], [d].[CoverImage], [d].[Date], [d].[DayNight], [d].[Description], [d].[GuideId], [d].[Image], [d].[Maxim], [d].[MaximAuthor], [d].[MaximStatus], [d].[Price], [d].[Status], [d].[SubDetails], [d].[TopDetails]
+FROM [Destinations] AS [d]" (0723d8ff)
+2023-07-09T15:13:51.7408962+03:00 40000008-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Destinations] AS [d]" (0723d8ff)
+2023-07-09T15:13:51.7424436+03:00 40000008-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Guides] AS [g]" (0723d8ff)
+2023-07-09T15:13:51.7452382+03:00 40000008-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[Id], [f].[Description], [f].[Image], [f].[IsBigArea], [f].[Status], [f].[Title]
+FROM [Features] AS [f]" (0723d8ff)
+2023-07-09T15:13:51.7482070+03:00 40000008-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Description], [s].[Title]
+FROM [SubAbouts] AS [s]" (0723d8ff)
+2023-07-09T15:13:51.7513686+03:00 40000008-0003-ff00-b63f-84710c7967bb [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[Id], [t].[Client], [t].[ClientImage], [t].[Comment], [t].[Status]
+FROM [Testimonials] AS [t]" (0723d8ff)
+2023-07-09T15:19:06.5954315+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-09T15:19:06.6253014+03:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-09T15:19:06.6289586+03:00  [INF] Content root path: "C:\Users\Onur\Desktop\Windows Form Projelerim\TraversalApp.MVC\TraversalApp.MVC" (cc26f24e)
+2023-07-09T15:19:06.8402708+03:00 40000006-0000-fb00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:19:06.8457634+03:00 40000006-0000-fb00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:40:25.2617082+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-09T15:40:25.2778303+03:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-09T15:40:25.2807650+03:00  [INF] Content root path: "C:\Users\Onur\Desktop\Windows Form Projelerim\TraversalApp.MVC\TraversalApp.MVC" (cc26f24e)
+2023-07-09T15:40:25.6015211+03:00 40000008-0009-ff00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:40:25.6078082+03:00 40000008-0009-ff00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:41:37.4386670+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-09T15:41:37.4582499+03:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-09T15:41:37.4607202+03:00  [INF] Content root path: "C:\Users\Onur\Desktop\Windows Form Projelerim\TraversalApp.MVC\TraversalApp.MVC" (cc26f24e)
+2023-07-09T15:41:37.6595846+03:00 4000000d-0006-fd00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:41:37.6629005+03:00 4000000d-0006-fd00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:47:18.4305418+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-07-09T15:47:18.4504838+03:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2023-07-09T15:47:18.4533077+03:00  [INF] Content root path: "C:\Users\Onur\Desktop\Windows Form Projelerim\TraversalApp.MVC\TraversalApp.MVC" (cc26f24e)
+2023-07-09T15:47:18.5963190+03:00 4000000a-000b-fd00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:47:18.5992386+03:00 4000000a-000b-fd00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:47:22.0910404+03:00 40000006-0005-fc00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:47:22.0927211+03:00 40000008-0005-fe00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:47:22.0951853+03:00 40000006-0005-fc00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:47:22.0973262+03:00 40000008-0005-fe00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:47:22.1469480+03:00 4000000c-0000-fc00-b63f-84710c7967bb [INF] Index page open (9e9201ee)
+2023-07-09T15:47:22.1499389+03:00 4000000c-0000-fc00-b63f-84710c7967bb [ERR] Error Logs (ff83272d)
+2023-07-09T15:48:29.3600105+03:00 40000008-0002-fe00-b63f-84710c7967bb [INF] Executed DbCommand ("53"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [d].[Id], [d].[Capacity], [d].[City], [d].[ContentImage], [d].[CoverImage], [d].[Date], [d].[DayNight], [d].[Description], [d].[GuideId], [d].[Image], [d].[Maxim], [d].[MaximAuthor], [d].[MaximStatus], [d].[Price], [d].[Status], [d].[SubDetails], [d].[TopDetails]
+FROM [Destinations] AS [d]" (0723d8ff)
