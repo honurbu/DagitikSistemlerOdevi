@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TraversalApp.Core
-build_property.ProjectDir = C:\Users\Onur\Desktop\Windows Form Projelerim\TraversalApp.MVC\TraversalApp.Core\
+build_property.ProjectDir = C:\Users\Onur\Desktop\GitHub Projects\Dpuversal\DagitikSistemlerOdevi\TraversalApp.MVC\TraversalApp.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

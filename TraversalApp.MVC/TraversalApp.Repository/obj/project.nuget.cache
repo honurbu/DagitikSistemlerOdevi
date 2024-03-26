@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nq6YtxwtGnkUA6IuXtLJmahczzGd3qIDxUuvwnrqHdTLGh0ry1BAaR0otpuxOpIEXdX2QcjLfjKNB92JbU7ZiA==",
+  "dgSpecHash": "8ZjjTHY7zlY7mOaBisyhO5CWeJrda3h1HLUMIIVWrHY+G/yAuI37fOmktFjlp6wf9Bet1n4bGpH1QYFDxdSIxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraversalApp.SignalRForMsSql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20b35ac1e21cbc5a81e2dda55b7874d7a966778")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraversalApp.SignalRForMsSql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraversalApp.SignalRForMsSql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

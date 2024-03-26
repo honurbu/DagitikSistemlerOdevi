@@ -21,6 +21,7 @@ using TraversalApp.Service.Container;
 using TraversalApp.MVC.CQRS.Handlers.DestinationHandlers;
 using MediatR;
 using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
+using NuGet.Protocol.Plugins;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -119,8 +120,8 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Destination}/{action=Index}/{id?}");
+name: "default",
+    pattern: "{controller=Default}/{action=Index}/{id?}");
 
 app.UseEndpoints(endpoints =>
 {

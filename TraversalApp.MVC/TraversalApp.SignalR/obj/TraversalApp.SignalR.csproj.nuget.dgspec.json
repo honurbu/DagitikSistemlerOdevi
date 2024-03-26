@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj": {}
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj": {
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj",
         "projectName": "TraversalApp.SignalR",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalR\\TraversalApp.SignalR.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalR\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onur\\NuGet.Config",

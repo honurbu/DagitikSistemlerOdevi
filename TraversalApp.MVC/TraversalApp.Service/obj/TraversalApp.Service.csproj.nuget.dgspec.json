@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj": {}
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj": {
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj",
         "projectName": "TraversalApp.Core",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onur\\NuGet.Config",
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj": {
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj",
         "projectName": "TraversalApp.Repository",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onur\\NuGet.Config",
@@ -117,8 +117,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj": {
-                "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj"
+              "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Core\\TraversalApp.Core.csproj"
               }
             }
           }
@@ -182,14 +182,14 @@
         }
       }
     },
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj": {
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj",
         "projectName": "TraversalApp.Service",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Service\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onur\\NuGet.Config",
@@ -208,8 +208,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj": {
-                "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj"
+              "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Repository\\TraversalApp.Repository.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hLR4dIIZkbjyr4Oxlt4OIzwyf4VsJE9OU50aXn6i3DKuLoLjOt0RSLbjL/v0820akMRf9PlKbjpKcg23DOyPbw==",
+  "dgSpecHash": "PHoezCjmoS/YrO8iLV/8dYnPdkZcDsJ6UchyrfLtRaCV5thrIGqJmAEz02PhOpbCUKtEaUUfc54CnhxrFooziw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj",
+  "projectFilePath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

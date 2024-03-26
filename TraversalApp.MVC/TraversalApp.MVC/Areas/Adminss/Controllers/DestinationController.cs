@@ -30,7 +30,7 @@ namespace TraversalApp.MVC.Areas.Adminss.Controllers
         [HttpPost]
         public async Task<IActionResult> AddDestination(Destination destination)
         {
-            destination.GuideId=3;
+            destination.GuideId=27;
             await _destinationService.AddAsync(destination);
             return RedirectToAction("Index");
         }

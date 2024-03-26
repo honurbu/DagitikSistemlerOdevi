@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj": {}
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj": {
+    "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj",
         "projectName": "TraversalApp.SignalRForMsSql",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\TraversalApp.SignalRForMsSql.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRForMsSql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onur\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iVtsdIe1rYOWSzbn1cA7ZXp6FQWbOtkMeE/wt6B/M73wXcP0K+/1c50C/vxKvg3W5x0kUwD/wqiqGPFYQ+MKMQ==",
+  "dgSpecHash": "L70IonRNH0b2ipFS5Y0D0MFQO3EgA75Xg+FnMekiW3huyOfaiSS/NewxRENaeBcfqbOmAFJP4W/Z9PMVy4lf4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.SignalRConsume\\TraversalApp.SignalRConsume.csproj",
+  "projectFilePath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.SignalRConsume\\TraversalApp.SignalRConsume.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

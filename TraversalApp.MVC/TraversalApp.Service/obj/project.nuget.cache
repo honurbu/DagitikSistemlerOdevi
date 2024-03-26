@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9ka3DckqxXGQsv1P6MnYgDWzTJCUnO7lyDhcZLn8BXFRIQl5L+vlkBzTJPXqIaRpQvWxVZcx5nJu4VP9RP+dg==",
+  "dgSpecHash": "U+OqpXRZSZVP98gS0rY0Al9QnAMUzFbyJgi7mGYNVIO9H/VSFmBkfsXBSPA7ATEtVBEeagVLmNa5X6qBiiw/0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Windows Form Projelerim\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj",
+  "projectFilePath": "C:\\Users\\Onur\\Desktop\\GitHub Projects\\Dpuversal\\DagitikSistemlerOdevi\\TraversalApp.MVC\\TraversalApp.Service\\TraversalApp.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
